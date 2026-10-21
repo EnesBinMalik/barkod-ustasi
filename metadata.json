@@ -1,0 +1,6 @@
+{
+  "name": "Barkod Ustası",
+  "description": "React ve TypeScript tabanlı tarayıcı barkod stüdyosu ve Node.js PNG oluşturma CLI'si.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
